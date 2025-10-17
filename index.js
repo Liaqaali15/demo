@@ -1,1 +1,3 @@
-console.log("hi github");
+console.log("hi githubgit ");
+
+let a=34;
